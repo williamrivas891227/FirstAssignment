@@ -1,0 +1,2 @@
+DevOps course exercise to learn how to create repositories on GitHub, create branches, and perform pull and push operations.
+
